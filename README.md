@@ -22,8 +22,19 @@
 
 ---
 
-### 📊 GitHub Stats
-![Rahil's GitHub stats](https://github-readme-stats.vercel.app/api?username=rahiiilkhn&show_icons=true&theme=radical)
+### 📊 GitHub Stats & Streaks
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rahiiilkhn&show_icons=true&theme=radical" alt="GitHub Stats" height="165"/>
+  <img src="https://streak-stats.demolab.com?user=rahiiilkhn&theme=radical&border_radius=10" alt="GitHub Streak" height="165"/>
+</p>
+
+---
+
+### 📈 Contributions Graph
+
+![Rahil's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=rahiiilkhn&theme=react-dark&hide_border=true&area=true)
+
 
 ---
 
