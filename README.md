@@ -18,17 +18,19 @@
 
 ---
 
-### 🛠️ Languages and Tools  
-<p align="left">  
-<img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java"/>  
-<img src="https://img.icons8.com/color/48/000000/spring-logo.png" alt="Spring Boot"/>  
-<img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript"/>  
-<img src="https://img.icons8.com/plasticine/48/react.png" alt="React"/>  
-<img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js"/>  
-<img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB"/>  
-<img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker"/>  
-<img src="https://img.icons8.com/color/48/000000/kubernetes.png" alt="Kubernetes"/>  
-</p>  
+
+### 🛠️ Languages and Tools:
+<p align="left">
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+  </a>
+  <a href="https://www.java.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+  </a>
+  <a href="https://www.oracle.com/web/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/oracle/oracle-icon.svg" alt="oracle web" width="40" height="40"/>
+  </a>
+</p
 
 ---
 
