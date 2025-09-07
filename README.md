@@ -1,6 +1,6 @@
-# Hi 👋, I'm Rahil Khan
+# Hi 👋, I'm Rahil Khan  
 
-### 🚀 About Me
+### 🚀 About Me  
 - 🔭 Currently working on **Java Backend** projects with **Spring Boot**  
 - 🌱 Learning **MERN Stack**, **Docker**, and **Kubernetes**  
 - 👯 Open to collaborating on **Web Development & Backend Projects**  
@@ -9,41 +9,41 @@
 
 ---
 
-### 🛠️ Tools & Technologies
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+### 🔗 Connect with me  
+<p align="left">
+<a href="mailto:khanrahil4578@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="gmail"/></a>
+<a href="https://www.linkedin.com/in/rahiiilkhn" target="_blank"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="linkedin"/></a>
+<a href="https://x.com/Rahiiilkhn" target="_blank"><img src="https://img.icons8.com/color/48/000000/twitter--v1.png" alt="twitter"/></a>
+</p>  
 
 ---
 
-### 📊 GitHub Stats & Streaks
+### 🛠️ Languages and Tools  
+<p align="left">  
+<img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java"/>  
+<img src="https://img.icons8.com/color/48/000000/spring-logo.png" alt="Spring Boot"/>  
+<img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript"/>  
+<img src="https://img.icons8.com/plasticine/48/react.png" alt="React"/>  
+<img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js"/>  
+<img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB"/>  
+<img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker"/>  
+<img src="https://img.icons8.com/color/48/000000/kubernetes.png" alt="Kubernetes"/>  
+</p>  
 
+---
+
+### 📊 GitHub Stats & Streaks  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rahiiilkhn&show_icons=true&theme=radical" alt="GitHub Stats" height="165"/>
   <img src="https://streak-stats.demolab.com?user=rahiiilkhn&theme=radical&border_radius=10" alt="GitHub Streak" height="165"/>
-</p>
+</p>  
 
 ---
 
-### 📈 Contributions Graph
-
-![Rahil's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=rahiiilkhn&theme=react-dark&hide_border=true&area=true)
-
+### 📈 Contributions Graph  
+![Rahil's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=rahiiilkhn&theme=react-dark&hide_border=true&area=true)  
 
 ---
 
-### 🏆 GitHub Trophies
-![trophy](https://github-profile-trophy.vercel.app/?username=rahiiilkhn&theme=darkhub)
-
----
-
-### 🔗 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rahiiilkhn)  
-[![X (Twitter)](https://img.shields.io/badge/X-(Twitter)-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Rahiiilkhn)  
-📧 **Email:** [khanrahil4578@gmail.com](mailto:khanrahil4578@gmail.com)
+### 🏆 GitHub Trophies  
+![trophy](https://github-profile-trophy.vercel.app/?username=rahiiilkhn&theme=darkhub)  
